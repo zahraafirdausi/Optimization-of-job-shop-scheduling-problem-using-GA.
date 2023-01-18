@@ -1,5 +1,6 @@
 # Optimization-of-job-shop-scheduling-problem-using-GA.
-##OPTIMASI PERMASALAHAN JOB SHOP SCHEDULING MENGGUNAKAN GENETIC ALGORITHM DAN CONSTRAINT SATISFACTION PROBLEM#
+## OPTIMASI PERMASALAHAN JOB SHOP SCHEDULING MENGGUNAKAN GENETIC ALGORITHM DAN CONSTRAINT SATISFACTION PROBLEM
+
 Menemukan solusi yang paling optimal dalam permasalah job shop scheduling dengan membandingkan genetic algorithm dan backtracking algorithm yang didapat dari penelitian sebelumnya.
 
 
